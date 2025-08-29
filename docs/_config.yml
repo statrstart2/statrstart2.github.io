@@ -9,8 +9,8 @@ theme: minima
 #     * solarized          Adaptive skin for solarized color scheme skins.
 minima:
   skin: solarized-dark
-  hide_site_feed_link: true
+#  hide_site_feed_link: true
 #  show_excerpts: true
-# plugins:
-# - jekyll-feed
-# - jekyll-seo-tag
+ plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
