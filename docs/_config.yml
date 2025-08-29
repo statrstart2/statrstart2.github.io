@@ -6,7 +6,8 @@ remote_theme: "jekyll/minima@1e8a445"
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-skin: solarized-dark
+skin: dark
+hide_site_feed_link: true
 plugins:
-# - jekyll-feed
+ - jekyll-feed
  - jekyll-seo-tag
