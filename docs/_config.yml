@@ -7,8 +7,10 @@ theme: minima
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-skin: dark
-hide_site_feed_link: true
+minima:
+  skin: solarized-dark
+  hide_site_feed_link: true
+  show_excerpts: true
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
